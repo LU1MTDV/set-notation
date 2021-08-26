@@ -1,0 +1,10 @@
+E={0,2,4,6,8}
+N={1,2,3,4,5}
+D=E|N
+Print("Unoin of E and N",D)
+F=E&N
+Print("Intersection of E and N",F)
+G=E-N
+Print("Difference of E and N",G)
+H=E^N
+Print("Symmetric difference of E and N",H)
